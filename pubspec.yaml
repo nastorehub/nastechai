@@ -97,7 +97,7 @@ dependencies:
   scrollable_positioned_list: ^0.3.8
   scrollview_observer: ^1.26.0
   image_gallery_saver_plus: ^5.0.0
-  haptic_feedback: ^0.6.4+3
+  haptic_feedback: ^0.8.0
   system_fonts: ^1.0.1
   google_fonts: ^6.3.2
   super_clipboard: ^0.9.1
